@@ -1,1 +1,1 @@
-Git is niubility
+Git is a distributed version control system.
